@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.carousel-item img{
+    width: 100%;
+   height: 100vh;
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    font-family: 'Raleway', sans-serif;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.about_img{
+    width: 100%;
+    height: 380px;
+}
+.row{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    letter-spacing: 2px;
+}    
+.servies{
+    font-family: 'Raleway', sans-serif;
+}
+.servies img{
+    width: 100%;
+    height: 100%;
+}
+.offer_style{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 255, 255);
+}
+footer p{
+    margin-bottom: 0;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(65, 61, 61);
+}
+.image img{
+    width: 100%;
+    height: 93vh;
+}
+.galaximg img{
+    width: 100%;
+    height: 93vh;
+}
+.space img{
+    width: 100%;
+    height: 93vh;
+}
